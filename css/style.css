@@ -123,7 +123,7 @@ body {
     margin-bottom: 10px;
 }
 
-/* Grade de Motores - O segredo do layout */
+/* Grade de Motores - testando */
 .grid-motores {
     display: grid;
     /* Cria 3 colunas de tamanhos iguais */
@@ -154,7 +154,7 @@ body {
     font-size: 1.1rem;
     color: #005792;
     margin-bottom: 15px;
-    height: 50px; /* Garante que títulos longos não quebrem o layout */
+    height: 50px; /*Garante o layout */
     display: flex;
     align-items: center;
     justify-content: center;
